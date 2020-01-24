@@ -1,0 +1,75 @@
+.containerModal {
+  display: inline-block;
+}
+
+.buttonModal {
+  background-color: #F17880;
+  border: 0px;
+  color: #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.buttonModal:hover {
+  background-color: #aaa;
+  color: #fff;
+}
+
+.buttonTransparent {
+  background-color: transparent;
+  border: 0px;
+}
+
+.modalHeader {
+  border: 0px;
+  font-family: Pacifico;
+  padding: 0px;
+  padding-bottom: 10px;
+  background-color: #F5F5DC;
+  flex-direction: column;
+  align-items: center;
+}
+
+.closeLayout {
+  position: absolute;
+  top: 0;
+  right: 5px
+}
+
+.buttonModalMenu {
+  background-color: transparent;
+  color: #F17880;
+  border: 0px;
+}
+
+.buttonModalLogin {
+  background-color: #7FB6BA;
+  width: 100%;
+  color: #fff;
+}
+
+.buttonModalLogin:hover {
+  background-color: #777;
+  color: #fff;
+}
+
+
+.linkModal {
+  text-decoration: none;
+  color: white;
+}
+
+.linkModal:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.modalHeader img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.modalBodyLogin {
+  margin: auto;
+}

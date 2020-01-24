@@ -1,0 +1,25 @@
+.containerSearch {
+  margin-top: 10px;
+  background-color: #FDC7BE;
+  padding: 5px;
+  color: #222;
+}
+
+.lineSearch {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.fromSearch {
+  width: 60%;
+  margin-right: 2px;
+  margin: auto
+}
+
+.textSearch {
+  font-family: French Script MT;
+  font-size: 45px;
+  margin-bottom: -10px;
+  color: #222;
+}

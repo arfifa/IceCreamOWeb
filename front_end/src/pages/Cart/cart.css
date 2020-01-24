@@ -1,0 +1,48 @@
+.containerCart {
+  background-color: #F4F4F4;
+  margin-bottom: -15px;
+  padding-bottom: 20px;
+}
+
+.headerTitleCart {
+  background-color: #F5F5DC;
+  color: #000;
+  padding: 10px;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.containerFromCartItem {
+  width: 130px;
+  margin-bottom: 50px;
+}
+
+.imgItems {
+  width: 80px;
+  height: 80px;
+}
+
+.orderSummary {
+  color: #999;
+  margin-bottom: 10px
+}
+
+.textCompleteAddress {
+  color: #999;
+  margin-bottom: 10px;
+}
+
+.btnAddAddress {
+  background-color: #FFC0CB;
+  margin-top: 5px;
+  color: #222;
+}
+
+.textAddress {
+  color: #000;
+}
+
+.textTotalPayment {
+  color: #000;
+  margin-top: 30px;
+}
