@@ -11,7 +11,6 @@ import { getReview } from '../../redux/action/review';
 import { FormCartItem } from '../../components/Form';
 import { ButtonLightGreen, ButtonDarkGreen } from '../../components/Button';
 import { APP_URL_IMAGE } from '../../config/Api';
-import MyPagination from '../../components/Pagination';
 import './DetailItem.css';
 import { postCart } from '../../redux/action/cart';
 
@@ -153,9 +152,6 @@ class DetailItem extends React.Component {
                     ))}
                   </CardBody>
                   <CardFooter>
-                    <Col className='col-md-6 mt-3' style={styles.containerFooterReview}>
-                      <MyPagination />
-                    </Col>
                   </CardFooter>
                 </Card>
               </div>

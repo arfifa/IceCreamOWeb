@@ -59,8 +59,8 @@ class MyAccount extends React.Component {
                 </CardTitle>
                 ALAMAT PENGIRIMAN
                 <CardText><span>{dataUser[0].fullname}</span><br />
-                  <span>{dataDetailUser[0].address}</span><br />
-                  <span>{dataDetailUser[0].province} - {dataDetailUser[0].city} - {dataDetailUser[0].district}</span>
+                  {/* <span>{dataDetailUser[0].address}</span><br /> */}
+                  {/* <span>{dataDetailUser[0].province} - {dataDetailUser[0].city} - {dataDetailUser[0].district}</span> */}
                 </CardText>
               </Card>
             </div>

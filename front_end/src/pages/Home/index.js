@@ -18,7 +18,6 @@ import './home.css';
 import CardItem from '../../components/CardItem';
 import CarouselItemIceCream from '../../components/CarouselItemIceCream';
 import { Search } from '../../components/Form';
-import MyPagination from '../../components/Pagination';
 import { DropdownSearchBy, DropdownSortBy } from '../../components/DropdownSearch';
 
 class Home extends React.Component {
@@ -120,11 +119,6 @@ class Home extends React.Component {
                 <CardItem key={v.id_item} idItem={v.id_item} itemName={v.item_name} itemImage={v.images} itemPrice={v.price} ratings={v.ratings} />
               ))}
             </Row>
-            <div className="mt-5">
-              <Col className='col-md-6' style={styles.pagination}>
-                <MyPagination />
-              </Col>
-            </div>
           </>
         }
         {isError &&

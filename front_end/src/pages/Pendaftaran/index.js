@@ -22,8 +22,7 @@ class Pendaftaran extends React.Component {
       id_role: 1,
       is_valid: false,
       dataRegister: {
-        success: null,
-        a: 0
+        success: null
       }
     }
   }
