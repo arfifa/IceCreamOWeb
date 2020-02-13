@@ -13,10 +13,10 @@ IceCreamO is an online ice cream sales application for Web, made with the React 
 ## Screenshots
 
 <p align="center">
-<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/cart.png" width="300">
-<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/detail.png" width="300">
-<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/home.png" width="300">
-<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/register.png" width="300">
+<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/cart.png" width="800">
+<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/detail.png" width="800">
+<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/home.png" width="800">
+<img src="https://github.com/arfifa/IceCreamOWeb/blob/master/front_end/src/assets/screenApp/register.png" width="800">
 </p>
 
 ## Developing
